@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.viewItem {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.scrollView {
+  /* background-image: url("./assets/loading.gif"); */
+}
